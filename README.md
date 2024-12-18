@@ -1,0 +1,2 @@
+# EnACP-A-Hybrid-Machine-Learning-Framework-for-Detecting-Anticancer-Peptides
+Cancer treatments often fail to target cancer cells specifically, leading to harmful side effects. EnACP is a two-step machine learning model that uses LightGBM and SVM classifiers to efficiently predict anticancer peptides (ACPs). It outperforms existing methods in accuracy and can accelerate the discovery of new ACPs for targeted therapies.

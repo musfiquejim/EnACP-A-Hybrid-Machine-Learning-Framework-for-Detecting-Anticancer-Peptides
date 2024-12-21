@@ -34,12 +34,15 @@ This version is properly formatted for `README.md` with clear headers, sections,
 ## 3. Reference and Feedback
 
 ### Contributors:
-- Ruiquan Ge (Jimin)
-- Guanwen Feng
-- Xiaoyang Jing
-- Renfeng Zhang
-- Pu Wang
-- Qing Wu
+
+- Ruiquan Ge (葛瑞权)
+- Jimin (智旻)
+- Guanwen Feng (冯冠文)
+- Xiaoyang Jing (景晓阳)
+- Renfeng Zhang (张仁峰)
+- Pu Wang (王璞)
+- Qing Wu (吴清)
+
 
 ## Contact Information
 

@@ -48,7 +48,7 @@ This version is properly formatted for `README.md` with clear headers, sections,
 
 **Musfique LLC**  
 Address: 7901 4TH STY # 11417 ST.PETERSBURG, FL, US 33702  
-Contact: (BDT+) 01798269968  
+Contact: +1 (850) 680-3620
 Email: [info@musfiquellc.com](mailto:info@musfiquellc.com)  
 Website: [www.musfiquellc.com](http://www.musfiquellc.com)  
 Kaggle: [musfiquejim](https://www.kaggle.com/musfiquejim)
